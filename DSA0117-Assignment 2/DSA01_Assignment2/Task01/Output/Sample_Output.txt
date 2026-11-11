@@ -1,0 +1,8 @@
+Task01 - SAMPLE EXECUTION OUTPUT
+================================================
+1 12 13
+1 100
+16 13 6 
+After call by value: 45000
+After call by reference: 40500
+After return by value: 40500

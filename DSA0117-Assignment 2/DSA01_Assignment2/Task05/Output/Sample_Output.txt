@@ -1,0 +1,11 @@
+Task05 - SAMPLE EXECUTION OUTPUT
+================================================
+Token IDs: 101 103 104
+Tokens issued: 4
+
+Bus ticket allocation:
+Asha: Seat 1
+Bala: Seat 2
+Chitra: Seat 3
+Dev: Waiting
+Seats issued: 3

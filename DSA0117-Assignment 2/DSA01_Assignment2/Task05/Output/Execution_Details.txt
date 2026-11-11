@@ -1,0 +1,11 @@
+Compilation command:
+g++ -std=c++17 -Wall -Wextra Source_Code/Q5_Static_Members_Array_Of_Objects.cpp -o program
+
+Run command (Linux/macOS):
+./program
+
+Run command (Windows):
+program.exe
+
+Compiler result: Successful compilation
+Program result: Executed successfully

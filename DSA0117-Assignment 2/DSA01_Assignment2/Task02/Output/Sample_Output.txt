@@ -1,0 +1,6 @@
+Task02 - SAMPLE EXECUTION OUTPUT
+================================================
+Highest mark before moderation: 91
+Highest mark after moderation: 93
+Index-based result: marks[1] = 93
+A reference to a local variable must not be returned, because it becomes dangling after the function ends.

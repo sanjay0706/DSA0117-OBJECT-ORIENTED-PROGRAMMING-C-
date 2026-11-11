@@ -1,0 +1,7 @@
+Task06 - SAMPLE EXECUTION OUTPUT
+================================================
+Minutes between departure and arrival: 205
+Is arrival earlier than departure? false
+Difference for same time: 0
+Difference across noon: 10
+Is 11:55 earlier than 12:05? true

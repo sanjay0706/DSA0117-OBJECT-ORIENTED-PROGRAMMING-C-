@@ -1,0 +1,8 @@
+Task04 - SAMPLE EXECUTION OUTPUT
+================================================
+Account number: SA1001
+Mini statement:
+200
+-50
+75
+Available balance: 1225
