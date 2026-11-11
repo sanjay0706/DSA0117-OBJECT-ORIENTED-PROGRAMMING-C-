@@ -1,0 +1,21 @@
+===== Task10_Collection_Comparison.cpp =====
+Sample output:
+Journeys: 20000
+Integer-paise total: 20000000 paise = Rs 200000.00
+Double total: Rs 200000.00
+INT_MAX: 2147483647
+Long long total is safe for this test.
+
+Journeys: 500000
+Integer-paise total: 500000000 paise = Rs 5000000.00
+Double total: Rs 5000000.00
+INT_MAX: 2147483647
+Long long total is safe for this test.
+
+Journeys: 3000000
+Integer-paise total: 3000000000 paise = Rs 30000000.00
+Double total: Rs 30000000.00
+INT_MAX: 2147483647
+Long long total is safe for this test.
+
+Safe total using long long: 3000000000 paise

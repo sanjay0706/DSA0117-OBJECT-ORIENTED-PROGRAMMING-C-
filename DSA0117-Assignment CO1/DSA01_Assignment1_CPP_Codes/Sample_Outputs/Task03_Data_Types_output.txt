@@ -1,0 +1,13 @@
+===== Task03_Data_Types.cpp =====
+Sample output:
+sizeof(bool): 1 bytes
+sizeof(char): 1 bytes
+sizeof(int): 4 bytes
+sizeof(long long): 8 bytes
+sizeof(float): 4 bytes
+sizeof(double): 8 bytes
+INT_MAX: 2147483647
+LONG_LONG_MAX: 9223372036854775807
+Zone: 2, Peak: true
+Balance: 10000 paise
+Collection: 6000000000 paise

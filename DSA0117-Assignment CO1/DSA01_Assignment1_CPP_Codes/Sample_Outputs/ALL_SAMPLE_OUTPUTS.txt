@@ -1,0 +1,123 @@
+DSA01 ASSIGNMENT 1 – SAMPLE OUTPUTS
+These outputs were produced by compiling the supplied programs with g++ -std=c++17 -Wall -Wextra.
+Task 8 uses sample input: hour=9, balance=10000 paise, fare=2000 paise.
+
+===== Task01_Objects.cpp =====
+Sample output:
+Journey approved
+Remaining balance: Rs 64.00
+
+===== Task02_Tokens_Constants.cpp =====
+Sample output:
+Fare in paise: 2400
+Minimum balance in paise: 5000
+
+===== Task03_Data_Types.cpp =====
+Sample output:
+sizeof(bool): 1 bytes
+sizeof(char): 1 bytes
+sizeof(int): 4 bytes
+sizeof(long long): 8 bytes
+sizeof(float): 4 bytes
+sizeof(double): 8 bytes
+INT_MAX: 2147483647
+LONG_LONG_MAX: 9223372036854775807
+Zone: 2, Peak: true
+Balance: 10000 paise
+Collection: 6000000000 paise
+
+===== Task04_Conversions.cpp =====
+Sample output:
+3 3.5
+C 68
+1 true
+s >= u
+Explicit division: 3.5
+Brace-initialized integer: 3
+
+===== Task05_Operators.cpp =====
+Sample output:
+11 16
+9 6 4
+6 4
+3 1 -3 -1
+18
+Peak hour: false
+
+===== Task06_Control_Structures.cpp =====
+Sample output:
+Fare Rs 10.00 balance Rs 90
+Fare Rs 36.00 balance Rs 54
+Denied (low balance) balance Rs 54
+
+===== Task07_Procedural_vs_OOP.cpp =====
+Sample output:
+Procedural journey: Approved, balance = 7000 paise
+OOP journey: Approved, balance = 7000 paise
+
+===== Task08_Safe_Input_Output.cpp =====
+Sample input:
+9
+10000
+2000
+Sample output:
+Enter hour (0-23): Enter card balance in paise: Enter fare in paise: Peak hour: true
+Fare: Rs 20.00
+Journey approved
+Remaining balance: Rs 80.00
+
+===== Task09_Implement_Test_Fare.cpp =====
+Sample output:
+Inner off-peak | expected: 1000 | actual: 1000 | PASS
+Middle peak at 8 | expected: 2400 | actual: 2400 | PASS
+Outer at 10 | expected: 3000 | actual: 3000 | PASS
+Inner peak at 17 | expected: 1200 | actual: 1200 | PASS
+Outer at 20 | expected: 3000 | actual: 3000 | PASS
+Invalid zone | expected: -1 | actual: -1 | PASS
+Passed 6 of 6 tests
+Exactly Rs 50 remains: true
+
+===== Task10_Collection_Comparison.cpp =====
+Sample output:
+Journeys: 20000
+Integer-paise total: 20000000 paise = Rs 200000.00
+Double total: Rs 200000.00
+INT_MAX: 2147483647
+Long long total is safe for this test.
+
+Journeys: 500000
+Integer-paise total: 500000000 paise = Rs 5000000.00
+Double total: Rs 5000000.00
+INT_MAX: 2147483647
+Long long total is safe for this test.
+
+Journeys: 3000000
+Integer-paise total: 3000000000 paise = Rs 30000000.00
+Double total: Rs 30000000.00
+INT_MAX: 2147483647
+Long long total is safe for this test.
+
+Safe total using long long: 3000000000 paise
+
+===== Task11_Final_Design.cpp =====
+Sample output:
+Journey approved
+Fare: 3600 paise
+Balance: 6400 paise
+Time per fare lookup: O(1)
+Space per card: O(1)
+
+===== Task12_Design_Challenge.cpp =====
+Sample output:
+Approved; fare = Rs 0.00
+Balance = Rs 200.00
+
+Approved; fare = Rs 36.00
+Balance = Rs 164.00
+
+Approved; fare = Rs 54.00
+Balance = Rs 110.00
+
+Denied: minimum balance requirement not satisfied
+Balance = Rs 110.00
+

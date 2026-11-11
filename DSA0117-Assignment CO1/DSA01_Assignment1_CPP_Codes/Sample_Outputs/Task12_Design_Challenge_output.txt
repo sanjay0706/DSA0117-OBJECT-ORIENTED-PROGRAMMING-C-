@@ -1,0 +1,14 @@
+===== Task12_Design_Challenge.cpp =====
+Sample output:
+Approved; fare = Rs 0.00
+Balance = Rs 200.00
+
+Approved; fare = Rs 36.00
+Balance = Rs 164.00
+
+Approved; fare = Rs 54.00
+Balance = Rs 110.00
+
+Denied: minimum balance requirement not satisfied
+Balance = Rs 110.00
+

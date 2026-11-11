@@ -1,0 +1,4 @@
+===== Task07_Procedural_vs_OOP.cpp =====
+Sample output:
+Procedural journey: Approved, balance = 7000 paise
+OOP journey: Approved, balance = 7000 paise

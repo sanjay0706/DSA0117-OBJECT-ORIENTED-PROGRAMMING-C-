@@ -1,0 +1,10 @@
+===== Task08_Safe_Input_Output.cpp =====
+Sample input:
+9
+10000
+2000
+Sample output:
+Enter hour (0-23): Enter card balance in paise: Enter fare in paise: Peak hour: true
+Fare: Rs 20.00
+Journey approved
+Remaining balance: Rs 80.00

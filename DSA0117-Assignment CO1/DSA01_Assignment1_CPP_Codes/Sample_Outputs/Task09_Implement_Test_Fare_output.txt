@@ -1,0 +1,10 @@
+===== Task09_Implement_Test_Fare.cpp =====
+Sample output:
+Inner off-peak | expected: 1000 | actual: 1000 | PASS
+Middle peak at 8 | expected: 2400 | actual: 2400 | PASS
+Outer at 10 | expected: 3000 | actual: 3000 | PASS
+Inner peak at 17 | expected: 1200 | actual: 1200 | PASS
+Outer at 20 | expected: 3000 | actual: 3000 | PASS
+Invalid zone | expected: -1 | actual: -1 | PASS
+Passed 6 of 6 tests
+Exactly Rs 50 remains: true

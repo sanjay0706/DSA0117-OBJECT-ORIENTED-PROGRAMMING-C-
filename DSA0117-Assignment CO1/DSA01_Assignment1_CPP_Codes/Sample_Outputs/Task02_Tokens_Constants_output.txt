@@ -1,0 +1,4 @@
+===== Task02_Tokens_Constants.cpp =====
+Sample output:
+Fare in paise: 2400
+Minimum balance in paise: 5000

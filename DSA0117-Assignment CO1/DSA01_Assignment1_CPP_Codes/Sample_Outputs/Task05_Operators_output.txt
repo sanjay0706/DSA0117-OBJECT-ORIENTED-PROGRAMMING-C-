@@ -1,0 +1,8 @@
+===== Task05_Operators.cpp =====
+Sample output:
+11 16
+9 6 4
+6 4
+3 1 -3 -1
+18
+Peak hour: false

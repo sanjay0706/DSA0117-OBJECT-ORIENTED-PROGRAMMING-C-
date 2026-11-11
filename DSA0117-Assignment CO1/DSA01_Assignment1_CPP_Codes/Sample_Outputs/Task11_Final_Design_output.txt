@@ -1,0 +1,7 @@
+===== Task11_Final_Design.cpp =====
+Sample output:
+Journey approved
+Fare: 3600 paise
+Balance: 6400 paise
+Time per fare lookup: O(1)
+Space per card: O(1)

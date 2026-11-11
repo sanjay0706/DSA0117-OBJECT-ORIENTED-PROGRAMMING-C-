@@ -1,0 +1,8 @@
+===== Task04_Conversions.cpp =====
+Sample output:
+3 3.5
+C 68
+1 true
+s >= u
+Explicit division: 3.5
+Brace-initialized integer: 3
