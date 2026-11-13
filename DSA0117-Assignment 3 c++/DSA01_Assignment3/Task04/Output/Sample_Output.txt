@@ -1,0 +1,7 @@
+Task04 - SAMPLE EXECUTION OUTPUT
+================================================
+First amount: Rs 120.75
+Second amount: Rs 79.25
+Total amount: Rs 200.00
+Is total Rs 200.00? true
+Paise carry test: Rs 1.25

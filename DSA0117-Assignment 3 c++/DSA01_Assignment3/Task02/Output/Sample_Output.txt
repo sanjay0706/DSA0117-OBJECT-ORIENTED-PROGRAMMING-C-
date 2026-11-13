@@ -1,0 +1,5 @@
+Task02 - SAMPLE EXECUTION OUTPUT
+================================================
+Copy constructor called
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS
+Self-assignment completed safely

@@ -1,0 +1,27 @@
+Task01 - SAMPLE EXECUTION OUTPUT
+================================================
+Default constructor:
+Title: Untitled
+Author: Unknown
+Copies: 0
+
+Title-only constructor:
+Title: The Alchemist
+Author: Unknown
+Copies: 0
+
+Title and author constructor:
+Title: Wings of Fire
+Author: A. P. J. Abdul Kalam
+Copies: 0
+
+Parameterized constructor:
+Title: C++ Programming
+Author: Bjarne Stroustrup
+Copies: 5
+
+Negative copies validation:
+Title: Invalid
+Author: Unknown
+Copies: 0
+

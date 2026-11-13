@@ -1,0 +1,11 @@
+Task05 - SAMPLE EXECUTION OUTPUT
+================================================
+Postfix result: 0:59:59
+Prefix result: 1:00:01
+Current time: 1:00:01
+Current time is less than next: false
+Playlist:
+0: Track One
+1: Track Two
+2: Track Three
+Range check: Playlist index out of range

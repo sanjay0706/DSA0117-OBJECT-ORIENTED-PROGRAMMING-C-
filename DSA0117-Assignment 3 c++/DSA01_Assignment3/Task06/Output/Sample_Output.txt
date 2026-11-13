@@ -1,0 +1,9 @@
+Task06 - SAMPLE EXECUTION OUTPUT
+================================================
+Concatenated text: Hello World
+Copy constructor called
+Copied text: Hello World
+Copy equals original: true
+After self-assignment: Hello World
+Empty text: []
+Empty differs from message: true

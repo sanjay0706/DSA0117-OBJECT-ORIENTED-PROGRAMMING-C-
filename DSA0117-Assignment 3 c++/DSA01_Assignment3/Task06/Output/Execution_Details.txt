@@ -1,0 +1,8 @@
+Compile:
+g++ -std=c++17 -Wall -Wextra Source_Code/Q6_Text_Rule_Of_Three.cpp -o program
+
+Run on Windows: program.exe
+Run on Linux/macOS: ./program
+
+Compilation: Successful
+Execution: Completed

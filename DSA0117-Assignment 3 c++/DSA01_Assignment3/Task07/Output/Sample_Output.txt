@@ -1,0 +1,7 @@
+Task07 - SAMPLE EXECUTION OUTPUT
+================================================
+Series impedance: 10 + j3
+Series magnitude: 10.4403
+Parallel impedance: 7.5 + j1.66667
+Parallel magnitude: 7.68295
+Safe error handling: Division by zero impedance

@@ -1,0 +1,17 @@
+Task03 - SAMPLE EXECUTION OUTPUT
+================================================
+Stack object:
+Auditorium created: 2 x 3
+
+Block-scope object:
+Auditorium created: 1 x 2
+Auditorium closed. Booked seats: 1
+
+Heap object:
+Auditorium created: 2 x 2
+Auditorium closed. Booked seats: 1
+
+Zero-row object:
+Auditorium created: 0 x 5
+Auditorium closed. Booked seats: 0
+Auditorium closed. Booked seats: 1

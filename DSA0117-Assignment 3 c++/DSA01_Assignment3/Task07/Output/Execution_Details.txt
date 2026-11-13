@@ -1,0 +1,8 @@
+Compile:
+g++ -std=c++17 -Wall -Wextra Source_Code/Q7_Complex_Impedance.cpp -o program
+
+Run on Windows: program.exe
+Run on Linux/macOS: ./program
+
+Compilation: Successful
+Execution: Completed
