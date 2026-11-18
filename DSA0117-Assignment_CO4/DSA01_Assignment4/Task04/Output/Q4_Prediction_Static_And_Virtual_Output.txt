@@ -1,0 +1,3 @@
+Q4_Prediction_Static_And_Virtual.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+3.5 4 3.5

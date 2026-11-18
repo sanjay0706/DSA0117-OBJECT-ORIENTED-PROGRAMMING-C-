@@ -1,0 +1,6 @@
+Q1_Staff_Hierarchy.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+College Payroll
+Anita (ID 101) pay: Rs 79000
+Bala (ID 102) pay: Rs 42600
+Charan (ID 103) pay: Rs 36000

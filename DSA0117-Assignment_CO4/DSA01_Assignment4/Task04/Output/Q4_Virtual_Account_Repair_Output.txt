@@ -1,0 +1,8 @@
+Q4_Virtual_Account_Repair.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+3.5
+4
+Accounts released automatically
+Account destroyed
+SeniorAccount destroyed
+Account destroyed

@@ -1,0 +1,18 @@
+Q6_Vehicle_Rental_Polymorphism.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+Fleet listing:
+Bicycle [BI-101] daily rate Rs 100
+Two-wheeler [TW-202] daily rate Rs 300
+Car [CA-303] daily rate Rs 1200
+Electric car [EV-404] daily rate Rs 1500
+Electric bus [EB-505] daily rate Rs 4000
+
+Rental demonstrations:
+Bicycle rental for 2 day(s): Rs 200
+Two-wheeler rental for 2 day(s): Rs 600
+Car rental for 2 day(s): Rs 2400
+Electric car rental for 2 day(s): Rs 3400
+Electric bus rental for 2 day(s): Rs 9200
+
+Return demonstration:
+Car returned; late charge: Rs 400

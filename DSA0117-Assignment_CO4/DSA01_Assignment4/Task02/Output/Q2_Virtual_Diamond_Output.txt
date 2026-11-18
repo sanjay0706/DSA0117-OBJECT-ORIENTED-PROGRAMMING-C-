@@ -1,0 +1,9 @@
+Q2_Virtual_Diamond.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+Person Student Staff TA 
+Name: Kavya
+ID: 101
+Programme: AI&DS
+CGPA: 9.1
+Department: Computer Science
+Salary: 25000

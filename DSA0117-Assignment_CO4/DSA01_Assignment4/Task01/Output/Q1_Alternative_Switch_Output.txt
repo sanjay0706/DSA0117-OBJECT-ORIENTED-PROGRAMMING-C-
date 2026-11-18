@@ -1,0 +1,5 @@
+Q1_Alternative_Switch.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+Pay: Rs 79000
+Pay: Rs 42600
+Pay: Rs 36000

@@ -1,0 +1,3 @@
+Q5_Complete_Code_Expected_Output.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+324.00

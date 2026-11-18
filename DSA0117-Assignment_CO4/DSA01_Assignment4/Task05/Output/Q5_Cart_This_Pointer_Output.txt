@@ -1,0 +1,6 @@
+Q5_Cart_This_Pointer.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+324.00
+Direct/pointer/reference total: 135.00
+Dynamic object total: 80.00
+Highest cart total: 324.00

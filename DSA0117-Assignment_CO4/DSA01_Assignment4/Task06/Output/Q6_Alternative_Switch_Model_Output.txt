@@ -1,0 +1,6 @@
+Q6_Alternative_Switch_Model.cpp - SAMPLE EXECUTION OUTPUT
+================================================================
+Charge: Rs 200
+Charge: Rs 600
+Charge: Rs 2400
+Charge: Rs 3400

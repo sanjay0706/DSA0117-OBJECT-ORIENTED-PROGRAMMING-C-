@@ -1,0 +1,8 @@
+Compiler standard: C++17
+Warnings: -Wall -Wextra
+Compile command:
+g++ -std=c++17 -Wall -Wextra <source-file.cpp> -o program
+Run on Windows: program.exe
+Run on Linux/macOS: ./program
+
+All included source files compiled and ran successfully in this environment.
