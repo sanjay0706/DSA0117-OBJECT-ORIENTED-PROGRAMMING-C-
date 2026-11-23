@@ -1,0 +1,7 @@
+Task01_A1_Bill_Hierarchy.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+OP: 1700
+IP: 50000
+DayCare: 18000
+Emergency: 2500
+Day total: 72200

@@ -1,0 +1,7 @@
+Task01_A1_Switch_Alternative.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+1700
+50000
+18000
+2500
+Day total: 72200

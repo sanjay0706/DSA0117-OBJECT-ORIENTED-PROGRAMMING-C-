@@ -1,0 +1,5 @@
+Task08_B3_Benchmark.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+1000 bills | virtual 1.6564e-05 s | switch 7.301e-06 s | checksum 6.7e+06
+1000000 bills | virtual 0.0172342 s | switch 0.00744911 s | checksum 6.7e+09
+10000000 bills | virtual 0.191983 s | switch 0.081975 s | checksum 6.7e+10

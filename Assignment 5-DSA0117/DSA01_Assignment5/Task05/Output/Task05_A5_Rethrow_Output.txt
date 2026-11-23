@@ -1,0 +1,3 @@
+Task05_A5_Rethrow.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+ok done caught negative [log too large] caught too large 

@@ -1,0 +1,3 @@
+Compile: g++ -std=c++17 -Wall -Wextra <source.cpp> -o program
+Run: program.exe (Windows) or ./program (Linux/macOS)
+Sample transcripts are included for each program.

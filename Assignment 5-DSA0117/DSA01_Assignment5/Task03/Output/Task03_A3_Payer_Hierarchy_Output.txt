@@ -1,0 +1,6 @@
+Task03_A3_Payer_Hierarchy.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+SelfPay covers 50000
+Insurance covers 36000
+Government covers 35000
+Corporate covers 40000

@@ -1,0 +1,6 @@
+Task09_B4_Extension.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+OP/SelfPay = 1700
+OP/Corporate = 1360
+Maternity/SelfPay = 65000
+Maternity/Corporate = 52000

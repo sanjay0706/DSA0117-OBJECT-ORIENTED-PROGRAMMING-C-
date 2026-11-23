@@ -1,0 +1,5 @@
+Task08_B3_Exception_Cost.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+0% invalid | return 0.00832166 s | exception 0.00811685 s | valid 1000000/1000000
+1% invalid | return 0.00833323 s | exception 0.0166924 s | valid 990000/990000
+50% invalid | return 0.0085232 s | exception 0.419328 s | valid 500000/500000

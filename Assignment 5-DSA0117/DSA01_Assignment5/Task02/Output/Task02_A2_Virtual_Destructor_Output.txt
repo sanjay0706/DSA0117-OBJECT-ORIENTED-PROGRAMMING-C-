@@ -1,0 +1,3 @@
+Task02_A2_Virtual_Destructor.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+500 ~OPBill ~Bill 

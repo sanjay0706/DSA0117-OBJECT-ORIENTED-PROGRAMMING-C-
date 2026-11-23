@@ -1,0 +1,5 @@
+Task04_A4_Exception_Hierarchy.cpp - SAMPLE EXECUTION OUTPUT
+============================================================
+Approved 2500
+Approved Billing error: negative charge
+Approved Billing error: claim exceeds limit
